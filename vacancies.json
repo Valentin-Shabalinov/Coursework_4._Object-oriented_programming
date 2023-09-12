@@ -1,0 +1,34 @@
+[
+  {
+    "employer": "Яндекс",
+    "title": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
+    "url": "https://norilsk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163284.html",
+    "api": "SuperJob",
+    "salary_from": 18000,
+    "salary_to": 45000
+  },
+  {
+    "employer": "ФГБУ \"НМИЦ онкологии им. Н. Н. Петрова\" Минздрава России",
+    "title": "Full stack python developer",
+    "url": "https://spb.superjob.ru/vakansii/full-stack-python-developer-46891033.html",
+    "api": "SuperJob",
+    "salary_from": 200000,
+    "salary_to": null
+  },
+  {
+    "employer": "WEB Экспертиза",
+    "title": "Программист на Python",
+    "url": "https://habarovsk.superjob.ru/vakansii/programmist-na-python-47416660.html",
+    "api": "SuperJob",
+    "salary_from": null,
+    "salary_to": null
+  },
+  {
+    "employer": "ГБОУ \"Лицей №126\" Калининского района Санкт-Петербурга",
+    "title": "Методист по программированию на Python (в центр цифрового образования)",
+    "url": "https://spb.superjob.ru/vakansii/metodist-po-programmirovaniyu-na-python-38140998.html",
+    "api": "SuperJob",
+    "salary_from": 30000,
+    "salary_to": null
+  }
+]
