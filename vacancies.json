@@ -1,11 +1,99 @@
 [
   {
-    "employer": "Яндекс",
-    "title": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-    "url": "https://norilsk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163284.html",
+    "employer": "HardQode",
+    "title": "Стажер-тестировщик QA",
+    "url": "https://hh.ru/employer/3428160",
+    "api": "HeadHunter",
+    "salary_from": null,
+    "salary_to": null
+  },
+  {
+    "employer": "HardQode",
+    "title": "Стажер-программист Python",
+    "url": "https://hh.ru/employer/3428160",
+    "api": "HeadHunter",
+    "salary_from": null,
+    "salary_to": null
+  },
+  {
+    "employer": "Инвайр",
+    "title": "Junior python разработчик",
+    "url": "https://hh.ru/employer/10301008",
+    "api": "HeadHunter",
+    "salary_from": 30000,
+    "salary_to": 40000
+  },
+  {
+    "employer": "HardQode",
+    "title": "Junior разработчик Python/Django",
+    "url": "https://hh.ru/employer/3428160",
+    "api": "HeadHunter",
+    "salary_from": 60000,
+    "salary_to": 80000
+  },
+  {
+    "employer": "Topface Media",
+    "title": "Начинающий аналитик данных",
+    "url": "https://hh.ru/employer/4138182",
+    "api": "HeadHunter",
+    "salary_from": 35000,
+    "salary_to": null
+  },
+  {
+    "employer": "Juzt Studio",
+    "title": "Frontend-разработчик (удаленно)",
+    "url": "https://hh.ru/employer/3359636",
+    "api": "HeadHunter",
+    "salary_from": 70000,
+    "salary_to": 100000
+  },
+  {
+    "employer": "Дунаев Михаил Алексеевич",
+    "title": "Data Scientist (стажер), удаленно",
+    "url": "https://hh.ru/employer/10073113",
+    "api": "HeadHunter",
+    "salary_from": null,
+    "salary_to": 15000
+  },
+  {
+    "employer": "Beeline, ТМ",
+    "title": "Junior Программист в Технический блок",
+    "url": "https://hh.ru/employer/135317",
+    "api": "HeadHunter",
+    "salary_from": null,
+    "salary_to": null
+  },
+  {
+    "employer": "FinSTC Software LLC",
+    "title": "Junior Python Developer",
+    "url": "https://hh.ru/employer/3551849",
+    "api": "HeadHunter",
+    "salary_from": 1300,
+    "salary_to": null
+  },
+  {
+    "employer": "Grand era",
+    "title": "Стажер Data Scientist",
+    "url": "https://hh.ru/employer/3809863",
+    "api": "HeadHunter",
+    "salary_from": null,
+    "salary_to": null
+  },
+  {
+    "employer": "Банк ВТБ (ПАО)",
+    "title": "Старший аналитик данных в CRM (Отдел анализа эффективности некредитного направления)",
+    "url": "https://www.superjob.ru/vakansii/starshij-analitik-dannyh-v-crm-46759846.html",
     "api": "SuperJob",
-    "salary_from": 18000,
-    "salary_to": 45000
+    "salary_from": null,
+    "salary_to": null
+  },
+  {
+    "employer": "Филиал ФКУ Налог-Сервис ФНС России по ЦОД в г. Москве",
+    "title": "Системный администратор",
+    "url": "https://volgograd.superjob.ru/vakansii/sistemnyj-administrator-46828373.html",
+    "api": "SuperJob",
+    "salary_from": 25000,
+    "salary_to": null
   },
   {
     "employer": "ФГБУ \"НМИЦ онкологии им. Н. Н. Петрова\" Минздрава России",
@@ -13,6 +101,30 @@
     "url": "https://spb.superjob.ru/vakansii/full-stack-python-developer-46891033.html",
     "api": "SuperJob",
     "salary_from": 200000,
+    "salary_to": null
+  },
+  {
+    "employer": "ФГБОУ ВО МГППУ",
+    "title": "Старший научный сотрудник",
+    "url": "https://www.superjob.ru/vakansii/starshij-nauchnyj-sotrudnik-41239513.html",
+    "api": "SuperJob",
+    "salary_from": null,
+    "salary_to": null
+  },
+  {
+    "employer": "КуулКлевер (МясновЪ, Отдохни)",
+    "title": "DevOps Team Lead",
+    "url": "https://nn.superjob.ru/vakansii/devops-team-lead-42890350.html",
+    "api": "SuperJob",
+    "salary_from": null,
+    "salary_to": null
+  },
+  {
+    "employer": "Почта России",
+    "title": "Ведущий специалист группы аналитики",
+    "url": "https://samara.superjob.ru/vakansii/veduschij-specialist-gruppy-analitiki-47180114.html",
+    "api": "SuperJob",
+    "salary_from": null,
     "salary_to": null
   },
   {
@@ -24,11 +136,27 @@
     "salary_to": null
   },
   {
-    "employer": "ГБОУ \"Лицей №126\" Калининского района Санкт-Петербурга",
-    "title": "Методист по программированию на Python (в центр цифрового образования)",
-    "url": "https://spb.superjob.ru/vakansii/metodist-po-programmirovaniyu-na-python-38140998.html",
+    "employer": "Народный доверительный банк",
+    "title": "Программист C#",
+    "url": "https://www.superjob.ru/vakansii/programmist-c-11203007.html",
     "api": "SuperJob",
-    "salary_from": 30000,
+    "salary_from": 120000,
+    "salary_to": 150000
+  },
+  {
+    "employer": "ГБОУ Школа №45 с углубленным изучением математики Приморского района Санкт-Петербурга",
+    "title": "Учитель информатики",
+    "url": "https://spb.superjob.ru/vakansii/uchitel-informatiki-46790086.html",
+    "api": "SuperJob",
+    "salary_from": null,
+    "salary_to": null
+  },
+  {
+    "employer": "SuperJob",
+    "title": "Дата-инженер / Data-engineer",
+    "url": "https://www.superjob.ru/vakansii/data-inzhener-47011454.html",
+    "api": "SuperJob",
+    "salary_from": null,
     "salary_to": null
   }
 ]
